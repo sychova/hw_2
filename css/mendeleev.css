@@ -1,0 +1,42 @@
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+th {
+    border: 2px solid black;
+}
+td {
+    padding:5px;
+}
+.elementSign {
+    font-weight: bold;
+    font-size: 25px;
+    text-align: right;
+}
+.topLeft {
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right-style: hidden;
+    border-bottom-style: hidden;
+    vertical-align: bottom;
+}
+.topCenter {
+    border-top: 2px solid black;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: hidden;
+    vertical-align: top;
+}
+.topRight {
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    vertical-align: bottom;
+}
+.bottomTitle {
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-top-style: hidden;
+}

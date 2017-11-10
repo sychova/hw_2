@@ -1,0 +1,24 @@
+input {
+    border-width: 2px;
+    border-color: rgb(60, 73, 85);
+    border-style: solid;
+    border-radius: 3px;
+    background-color: rgb(241, 241, 241);
+    width: 331px;
+    height: 46px;  
+}
+textarea {
+    border-width: 2px;
+    border-color: rgb(60, 73, 85);
+    border-style: solid;
+    border-radius: 3px;
+    background-color: rgb(241, 241, 241);
+    width: 727px;
+    height: 224px;
+  }
+  .button {
+      color: white;
+      background-color: #48bf72;
+      border-color: #48bf72;
+      width: 799.2px;
+  }
